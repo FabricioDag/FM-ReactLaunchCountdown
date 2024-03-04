@@ -25,13 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](../screenshots/desktop-countdown.png)
-![](../screenshots/mobile-countdown.png)
+![](../src/screenshots/desktop-countdown.png)
+![](../src/screenshots/mobile-countdown.png)
 
 ### Design
 
-![](../design/desktop-design.jpg)
-![](../design/mobile-design.jpg)
+![](../src/design/desktop-design.jpg)
+![](../src/design/mobile-design.jpg)
 
 ### Links
 
