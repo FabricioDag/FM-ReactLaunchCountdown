@@ -1,0 +1,13 @@
+.titleText {
+  color: white;
+  text-transform: uppercase;
+  margin: 5rem 1rem;
+  letter-spacing: 0.3rem;
+  font-size: 1.5rem;
+}
+
+@media (min-width: 1300px) {
+  .titleText {
+    font-size: 1.3rem;
+  }
+}
