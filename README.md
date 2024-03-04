@@ -34,7 +34,7 @@ Users should be able to:
 ![](./src/design/mobile-design.jpg)
 ### Links
 
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://fabriciodag.github.io/FM-ReactLaunchCountdown/))
+- Live Site URL: [https://your-live-site-url.com](https://fabriciodag.github.io/FM-ReactLaunchCountdown/]([https://your-live-site-url.com](https://fabriciodag.github.io/FM-ReactLaunchCountdown/))
 
 ## My process
 
@@ -58,7 +58,7 @@ I encountered challenges while working with multilayer background images and i w
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Fabrício D'Agostini]Soon
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 
 ## Acknowledgments
