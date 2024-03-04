@@ -34,7 +34,7 @@ Users should be able to:
 ![](./src/design/mobile-design.jpg)
 ### Links
 
-- Live Site URL: [https://your-live-site-url.com](https://fabriciodag.github.io/FM-ReactLaunchCountdown/]([https://your-live-site-url.com](https://fabriciodag.github.io/FM-ReactLaunchCountdown/))
+- Live Site URL: [https://fabriciodag.github.io/FM-ReactLaunchCountdown]
 
 ## My process
 
