@@ -25,18 +25,16 @@ Users should be able to:
 
 ### Screenshot
 
-![](../src/screenshots/desktop-countdown.png)
-![](../src/screenshots/mobile-countdown.png)
+![](./src/screenshots/desktop-countdown.png)
+![](./src/screenshots/mobile-countdown.png)
 
 ### Design
 
-![](../src/design/desktop-design.jpg)
-![](../src/design/mobile-design.jpg)
-
+![](./src/design/desktop-design.jpg)
+![](./src/design/mobile-design.jpg)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://fabriciodag.github.io/FM-ReactLaunchCountdown/))
 
 ## My process
 
